@@ -8,5 +8,7 @@ Maven é uma ferramenta de interação de projetos. É responsável por gerencia
 
 É um framework que agiliza o processo de criação de arquivos, assim permitindo ganhar tempo em configurações iniciais e te fornecendo varios recursos já prontos para ser utilizados. 
 
+## O que é uma classe?
 
+Uma classe é utilizar para representar um objeto do mundo real, onde geralmente é declarado atributos e metodos que compoe as caracteristicas e comportamento deste objeto.
 
