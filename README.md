@@ -12,3 +12,6 @@ Maven é uma ferramenta de interação de projetos. É responsável por gerencia
 
 Uma classe é utilizar para representar um objeto do mundo real, onde geralmente é declarado atributos e metodos que compoe as caracteristicas e comportamento deste objeto.
 
+## O que são atributos?
+
+Atributos são propriedades de um objeto, ou como mais conhecida em outra linguagens (variável), ou seja é responsável pela declaração destes dados, assim permitindo futramente atribuirmos ações através de nossos metódos.
