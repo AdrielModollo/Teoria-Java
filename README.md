@@ -20,3 +20,23 @@ Atributos são propriedades de um objeto, ou como mais conhecida em outra lingua
 
 Metódos é responsável por todo comportamento, ou seja ação que será realizada. Pode-se utilzar mais de um metódos para concluír varias ações, em outras linguagens poderiamos comparar que um metódos nada mais é que uma subrotina, função...
 
+### Estrutura O.O
+
+  Classe
+  
+  public class CachorroPequeno {
+      
+        public String nome;
+        public float altura;
+        public float peso;
+        
+        void imc {
+          if (altura <= 30 && peso <= 5) {
+            System.out.println("Parabéns seu cachorro está dentro do peso");
+          } else {
+            System.out.println("Seu cachorro está obesooo, cuidadooo, cuida do seu doguinho!")
+          }
+        }     
+  }
+  
+ #### Note que a classe "CachorroPequeno" foi declarada no intuito de atribuirmos um objeto do mundo real, em seguida declaramos seus atributos que todo cachorro possuí, ou seja, um nome, uma altura, um peso, claro que poderiamos declarar muito mais, mas para afins de exemplo preferi declarar somente estes para ser de fácil compreendimento. Para finalizar declarei um metódo com nome "imc", este metódo é responsável por toda ação, onde será definido se este cachorro está dentro do peso ou não conforme as condições atribuidas. 
