@@ -37,6 +37,10 @@ Metódos é responsável por todo comportamento, ou seja ação que será realiz
             System.out.println("Seu cachorro está obesooo, cuidadooo, cuida do seu doguinho!")
           }
          }
-      }
+   }
   
  #### Note que a classe "CachorroPequeno" foi declarada no intuito de atribuirmos um objeto do mundo real, em seguida declaramos seus atributos que todo cachorro possuí, ou seja, um nome, uma altura, um peso, claro que poderiamos declarar muito mais, mas para afins de exemplo preferi declarar somente estes para ser de fácil compreendimento. Para finalizar declarei um metódo com nome "imc", este metódo é responsável por toda ação, onde será definido se este cachorro está dentro do peso ou não conforme as condições atribuidas. 
+
+## Microserviços
+
+São serviços independentes, que se comunicam utilizando apis bem definidas. Ou seja, com microserviços conseguimos garantir que quando houver modificações não afete outros serviços diretamente ou todo sistema. Então mesmo que haja uma falha, é possível continuar trabalhando, pois os serviços são isolados.
