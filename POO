@@ -1,0 +1,25 @@
+# Programação Orientada a Objeto
+
+# História
+
+Programação baixo nivel > Programação linear > Programação estruturada > Programação Modular > POO
+
+Quem criou?
+Alan Kay
+
+Vantagens POO:
+
+COMERNada
+
+Confiável: O Isolamente entre as parte gera software seguro. Ao alterar uma parte, nenhuma outra é afetada.
+
+Oportuno: Ao dividir tudo em partes, várias delas podem ser desenvolvidas parelelo.
+
+Manutenível: Atualizar um software é mais fácil. Uma pequena modificação vai beneficiar todas as partes que usarem
+o objeto. 
+
+Extensível: O Software não é estático. Ele deve crescer para permanecer útil.
+
+Reutilizável: Podemos usar objetos de um sistema que criamos em outro sistema no futuro.
+
+Natural: Mais fácil de entender. Você se precoupa mais na funcionalidade do que nos detalhes de implementação.
