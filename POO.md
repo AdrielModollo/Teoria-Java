@@ -36,21 +36,49 @@ Coisa que eu faço? Escrever, Rabiscar, Pintar, tampar, destampar (Classe)
 Como eu estou agora? A Caneta é azul, no momento ela está está estável (Estado)
 
 Classe Caneta
+
   modelo: Caractere
+  
   cor: Caractere
+  
   ponta: Real
+  
   carga: Inteiro
+  
   tampada: Logico
   
   Metodo rabiscar()
+  
     Se (tampada) entao
       Escreva ("Erro")
     Senao
       Escreva("Rabisco")
     FimSe
+    
   FimMetodo
   
   Metodo tampar()
+  
     tampada = verdadeiro
+    
   FimMetodo
 FimClasse
+
+Estou instanciando uma classe em objeto:
+C1 = nova Caneta
+
+C1.cor = "Azul"
+
+C1.ponta = 0.5
+
+C1.tampada = falso
+
+C1.rabiscar() <- Parenteses indica um metódo. 
+
+# Classe
+
+Define os atributos e métodos comuns que serão compartilhados por um objeto.
+
+# Objeto
+
+É uma instância de um classe
