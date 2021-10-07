@@ -52,3 +52,11 @@ São serviços independentes, que se comunicam utilizando apis bem definidas. Ou
 -Expor aquela funcionalidade que deseja, sem a necessidade que o backend da aplicação seja afetado.
 
 SOA não é uma tecnologia, um produto, web service, projeto de TI, software, metodologia, solução de negócio, middleware, não pode ser comprada, não é um serviço, não é uma ferramenta de produtividade.
+
+### Por que utilizar SOA?
+
+-Atender melhor e mais rápido as áreas de negócios. Alinhar a TI com os objetivos do negócio.
+-Agilidade, habilidade de agira rapidamente as necessidade de mercado. Criando flexíbilidade de processos de negócios.
+-Reutilizar funcionalidades em processos e organizações empresarias.
+-Economia de tempo e dinheiro, na entrega de novas funcionalidades. Devido a reutilização de serviços.
+-
