@@ -23,3 +23,34 @@ Extensível: O Software não é estático. Ele deve crescer para permanecer úti
 Reutilizável: Podemos usar objetos de um sistema que criamos em outro sistema no futuro.
 
 Natural: Mais fácil de entender. Você se precoupa mais na funcionalidade do que nos detalhes de implementação.
+
+# O que é um objeto
+
+Coisa material ou abstrata que pode ser percebida pelos sentidos e descrita por meio das suas caracteristicas, comportamentos e estado atual.
+
+Exemplo: Uma caneta em sí é um objeto, porém o molde de uma caneta já é uma classe.
+
+Todo objeto tem:
+Coisas que eu tenho? Modelo, cor, ponta, carga, tampada (Atributos)
+Coisa que eu faço? Escrever, Rabiscar, Pintar, tampar, destampar (Classe)
+Como eu estou agora? A Caneta é azul, no momento ela está está estável (Estado)
+
+Classe Caneta
+  modelo: Caractere
+  cor: Caractere
+  ponta: Real
+  carga: Inteiro
+  tampada: Logico
+  
+  Metodo rabiscar()
+    Se (tampada) entao
+      Escreva ("Erro")
+    Senao
+      Escreva("Rabisco")
+    FimSe
+  FimMetodo
+  
+  Metodo tampar()
+    tampada = verdadeiro
+  FimMetodo
+FimClasse
