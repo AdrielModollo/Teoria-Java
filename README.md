@@ -55,8 +55,11 @@ SOA não é uma tecnologia, um produto, web service, projeto de TI, software, me
 
 ### Por que utilizar SOA?
 
--Atender melhor e mais rápido as áreas de negócios. Alinhar a TI com os objetivos do negócio.
--Agilidade, habilidade de agira rapidamente as necessidade de mercado. Criando flexíbilidade de processos de negócios.
--Reutilizar funcionalidades em processos e organizações empresarias.
--Economia de tempo e dinheiro, na entrega de novas funcionalidades. Devido a reutilização de serviços.
--
+Atender melhor e mais rápido as áreas de negócios. Alinhar a TI com os objetivos do negócio.
+
+Agilidade, habilidade de agira rapidamente as necessidade de mercado. Criando flexíbilidade de processos de negócios.
+
+Reutilizar funcionalidades em processos e organizações empresarias.
+
+Economia de tempo e dinheiro, na entrega de novas funcionalidades. Devido a reutilização de serviços.
+
