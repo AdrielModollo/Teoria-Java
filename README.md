@@ -50,3 +50,5 @@ São serviços independentes, que se comunicam utilizando apis bem definidas. Ou
 É um estilo de arquitetura independente de tecnologia, que é regido pelos principios de design service orientation (SO).
 -Organizar um sistema e separa o mesmo, baseado em serviços.
 -Expor aquela funcionalidade que deseja, sem a necessidade que o backend da aplicação seja afetado.
+
+SOA não é uma tecnologia, um produto, web service, projeto de TI, software, metodologia, solução de negócio, middleware, não pode ser comprada, não é um serviço, não é uma ferramenta de produtividade.
