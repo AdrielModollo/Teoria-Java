@@ -44,3 +44,9 @@ Metódos é responsável por todo comportamento, ou seja ação que será realiz
 ## Microserviços
 
 São serviços independentes, que se comunicam utilizando apis bem definidas. Ou seja, com microserviços conseguimos garantir que quando houver modificações não afete outros serviços diretamente ou todo sistema. Então mesmo que haja uma falha, é possível continuar trabalhando, pois os serviços são isolados.
+
+## SOA
+
+É um estilo de arquitetura independente de tecnologia, que é regido pelos principios de design service orientation (SO).
+-Organizar um sistema e separa o mesmo, baseado em serviços.
+-Expor aquela funcionalidade que deseja, sem a necessidade que o backend da aplicação seja afetado.
