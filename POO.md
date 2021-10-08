@@ -82,3 +82,11 @@ Define os atributos e métodos comuns que serão compartilhados por um objeto.
 # Objeto
 
 É uma instância de um classe
+
+# Modificadores de visibilidade
+
+publico(+) A classe atual e todas as classes. Exemplo: Um orelhão (Telefone publico)
+
+privado(-) Somente a classe atual vai ter acesso. Exemplo: Meu celular (Somente eu tenho acesso)
+
+protegido(#) a classe atual e todas suas sub-classe (Só minha mãe e os filhos dela pode utilizar, um telefone em casa)
