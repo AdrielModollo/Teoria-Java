@@ -6,3 +6,8 @@ Teoria: Ocultar partes independentes da implementação, permitindo construir pa
 Um bom objeto encapsulado possuí uma Interface: Lista de serviços fornecidos por um componente. É o contato com o mundo exterior, que define o que pode feito com um objeto dessa classe.
 
 Encapsular não é obrigatório, mas é uma boa prática para produzir classes mais eficientes.
+
+Vantagens Encapsular:
+1°Tornar mudanças invisíveis
+2°Facilitar reutilização de código
+3°Reduzir efeitos colaterais  
