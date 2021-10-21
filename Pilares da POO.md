@@ -23,6 +23,7 @@ Exemplo:
   play()
   pause()
 
+  metodos abstratos: Ele é previsto, mas não implementado. Ou seja, só quero saber a reação, exemplo ao clicar no botão ligar a ação será a mesma. 
 
 Encapsular não é obrigatório, mas é uma boa prática para produzir classes mais eficientes.
 
