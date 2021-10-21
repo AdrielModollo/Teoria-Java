@@ -1,0 +1,4 @@
+Encapsulamento
+
+Possuí um padrão e protege o código do usuário e o usuário do código.
+Teoria: Ocultar partes independentes da implementação, permitindo construir partes invisíveis ao mundo exterior.
