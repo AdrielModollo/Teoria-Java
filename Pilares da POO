@@ -4,3 +4,5 @@ Possuí um padrão e protege o código do usuário e o usuário do código.
 Teoria: Ocultar partes independentes da implementação, permitindo construir partes invisíveis ao mundo exterior.
 
 Um bom objeto encapsulado possuí uma Interface: Lista de serviços fornecidos por um componente. É o contato com o mundo exterior, que define o que pode feito com um objeto dessa classe.
+
+Encapsular não é obrigatório, mas é uma boa prática para produzir classes mais eficientes.
