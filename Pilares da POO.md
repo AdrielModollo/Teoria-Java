@@ -88,3 +88,22 @@ Clase ControleRemoto
   FimMetodo
 FimClasse
 
+   
+Clase ControleRemoto
+  Implementa Controlador
+    public Metodo abrirMenu()
+      Escreva(getLigado())
+      Escreva(getVolume())
+      Para i = 0 ate getVolume() passo 10 faca
+        Escreva("|")
+      FimPara
+    FimMetodo
+  
+    public Metodo fecharMenu()
+      Escreva("Fechando menu...")
+    FimMetodo
+  
+  todos outros metodos metodos deve ser declaro
+FimClasse
+
+  
