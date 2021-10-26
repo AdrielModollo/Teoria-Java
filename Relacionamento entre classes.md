@@ -112,4 +112,21 @@ classe Lutador
   
 FimClasse
  
+ # Metodos lutador
+ 
+ Classe Lutador
+  
+    public metodo ganharLuta()
+      setVitorias(getVitorias() + 1)
+    fim metodo
+    
+    public metodo perderLuta()
+      setDerrotas(getDerrotas() + 1)
+    fim metodo
+    
+    public metodo empatarLuta()
+      setEmpates (getEmpates() + 1)
+    fim metodo
+    
+ FimClasse
   
