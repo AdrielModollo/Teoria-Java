@@ -41,4 +41,12 @@ classe Lutador
   fim metodo
   
  FimClasse
+ 
+ # Metodo construtor
+ 
+ publico metodo construtor( nome = no: Caractere, nacionalidade = na: Caractere, idade = id: Inteiro, altura = al: Real, setPeso(pe): Real, vitorias = vi: Inteiro, derrotas  = de: Inteiro, empates = em: Inteiro)
+ 
+ fim metodo
+ FimClasse
+ 
   
